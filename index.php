@@ -5,6 +5,7 @@
 		header('location: login.php');
 	}
 ?>
+//INDEX
 <!DOCTYPE html>
 <html>
 <head>
